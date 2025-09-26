@@ -1,12 +1,4 @@
-# 全局配置
-server:
-  port: 8769
-
-spring:
-  application:
-    name: config-client
-  profiles:
-    active: dev
+# 全局公共配置：Eureka服务器地址
 eureka:
   client:
     service-url:
