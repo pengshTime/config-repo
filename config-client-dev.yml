@@ -1,1 +1,2 @@
-foo: Hello from GitHub!
+# config-client在dev环境下的专属配置
+foo: Hello from GitHub dev profile!
